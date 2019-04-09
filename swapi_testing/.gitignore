@@ -1,0 +1,8 @@
+# IDE
+.idea*
+.idea/
+
+# Ebv
+.env
+env
+env/
